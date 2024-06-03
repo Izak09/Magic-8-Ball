@@ -1,4 +1,4 @@
-const userName = 'Izak';
+const userName = 'CurrentUser';
 
 userName ? console.log(`Hello, ${userName}!`) : console.log('Hello!');
 
